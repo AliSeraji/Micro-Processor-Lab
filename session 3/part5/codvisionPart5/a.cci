@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:5109973C
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\lcd.h"
+NODE:V LEVEL:0 LINE:34 "pulse_enable -> RAM:????"
+NODE:V LEVEL:0 LINE:35 "cnt -> R4,R5"
+NODE:V LEVEL:0 LINE:36 "lcd_buffer -> RAM:????"
+NODE:V LEVEL:0 LINE:37 "timer0 -> R7"
+NODE:F LEVEL:0 LINE:39 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:49 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:63 "main(void)"
